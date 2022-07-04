@@ -3,7 +3,7 @@ spring:
         url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&amp
         characterEncoding: UTF-8
         username: root
-        password: "{cipher}de57929d157783fcfbf1f4829688829bfac4f8de4f57bcd194e4c475ee99936f"
+        password: "{cipher}19d5e0f60de1dce93b90a9c9d1c6b844e714e0a5b25a844a40f77b1ebb97f252"
 
 jwt:
   secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
