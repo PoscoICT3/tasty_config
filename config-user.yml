@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&amp
+    url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&amp
     characterEncoding: UTF-8
     username: root
     password: "{cipher}19d5e0f60de1dce93b90a9c9d1c6b844e714e0a5b25a844a40f77b1ebb97f252"
