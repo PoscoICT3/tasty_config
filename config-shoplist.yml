@@ -1,0 +1,11 @@
+posco:
+  name: shoplist
+  count: 20
+  datasource:
+    url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&amp
+    characterEncoding: UTF-8
+    username: root
+    password: 1234
+
+
+
